@@ -1,4 +1,4 @@
-# Employee Database: A Mystery in Two Parts
+# Employee Database
 
 ![sql](https://github.com/kaurn6538/SQL-challenge/assets/98873779/2a0816cb-5b86-47c1-b57c-fae500996021)
 
